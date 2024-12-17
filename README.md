@@ -1,7 +1,36 @@
-## Hi there 👋
+<h1>Hi, I'm Spandan Patil! <br/> <a href="https://www.linkedin.com/in/spandanpatil">Software Engineer</a>, <a href="https://github.com/5pandan8">Programmer</a></h1>
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>Data Structures and Algorithms Practice (LeetCode)</b>
+  - [Praciting DS & Algos in C++](https://github.com/5pandan8/LeetCode)
+- <b>Full Stack Web App (React, NodeJS, MongoDB, and Machine Learning Components)</b>
+  - [FLIP](https://github.com/5pandan8/FLIP_final)
+- <b>Python</b>
+  - [Flappy Bird AI](https://github.com/5pandan8/Flappy-Bird_AI)
+  - [CS50's - Introduction to Artificial Intelligence with Python course.](https://github.com/5pandan8/CS50)
+- <b>Web Development</b>
+  - [Plantanomy](https://github.com/5pandan8/Plantanomy)
+  
+
+<h2>:bookmark_tabs: Certificate </h2>
+
+- [CS50's Introduction to Artificial Intelligence with Python](https://drive.google.com/file/d/15MMhEfVvg4bKhN_h8B7o7nDnQsdT-6Lj/view?usp=sharing)
+- [CS198.2x: Blockchain Technology](https://drive.google.com/file/d/1mFflK4N1l78XWinOMAYunhgF8nUxDAXh/view?usp=sharing)
+- [DL0120EN: Deep Learning with Tensorflow](https://drive.google.com/file/d/1CaQNTKt1tbz_0ftl3I3bh80GPhswCx4t/view?usp=sharing)
+- [PH125.8x: Data Science: Machine Learning](https://drive.google.com/file/d/1VokaJsWQVHGGfpgGxrOwnovhbdzbZccg/view?usp=sharing)
+- [iOS & Swift - The Complete iOS App Development Bootcamp](https://drive.google.com/file/d/1XPdfOu0XdB-ujKSwyeAoLTMhjwsvBhPq/view?usp=sharing)
+- [Teamwork Skills: Communicating Effectively in Groups](https://drive.google.com/file/d/1Zj33Fbr3hREV6ObmJSCQUjmBwz7vbNWB/view?usp=sharing)
+- [Question Generation using Natural Language processing](https://drive.google.com/file/d/1hTPTs7PoeGUtBszu2mDRb9GnAgIxjs0J/view?usp=sharing)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="SpandanPatil | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/spandanpatil
 
 <!--
-**5pandan8/5pandan8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
