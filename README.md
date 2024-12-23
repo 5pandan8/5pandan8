@@ -8,6 +8,7 @@
   - [FLIP](https://github.com/5pandan8/FLIP_final)
 - <b>Python</b>
   - [Flappy Bird AI](https://github.com/5pandan8/Flappy-Bird_AI)
+  - [Path Finding Algorithm Visualizer](https://github.com/5pandan8/Path_Finding_Algo_Visualizer)
   - [CS50's - Introduction to Artificial Intelligence with Python course.](https://github.com/5pandan8/CS50)
 - <b>Web Development</b>
   - [Plantanomy](https://github.com/5pandan8/Plantanomy)
