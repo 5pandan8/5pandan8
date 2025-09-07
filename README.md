@@ -2,8 +2,6 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (LeetCode)</b>
-  - [Praciting DS & Algos in C++](https://github.com/5pandan8/LeetCode)
 - <b>Full Stack Web App (React, NodeJS, MongoDB, and Machine Learning Components)</b>
   - [FLIP](https://github.com/5pandan8/FLIP_final)
 - <b>Python</b>
