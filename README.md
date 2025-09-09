@@ -5,7 +5,7 @@
 - <b>Full Stack Web App (React, NodeJS, MongoDB, and Machine Learning Components)</b>
   - [FLIP](https://github.com/5pandan8/FLIP_final)
 - <b>Machine Learning Projects</b>
-  - [Machine Learning Projects](https://github.com/5pandan8/Machine_Learning_Projects)
+  - [Machine Learning Projects](https://github.com/5pandan8/Machine-Learning-Projects)
 - <b>Python</b>
   - [Flappy Bird AI](https://github.com/5pandan8/Flappy-Bird_AI)
   - [Path Finding Algorithm Visualizer](https://github.com/5pandan8/Path_Finding_Algo_Visualizer)
