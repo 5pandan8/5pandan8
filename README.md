@@ -6,13 +6,14 @@
   - [FLIP](https://github.com/5pandan8/FLIP_final)
 - <b>Data Science Projects</b>
   - [Data Science Coursework Projects](https://github.com/5pandan8/Data-Science-Coursework-Projects)
-- <b>AI</b>
+- <b>Artificial Intelligence Projects</b>
   - [CS50's - Introduction to Artificial Intelligence with Python course.](https://github.com/5pandan8/CS50)
   - [Flappy Bird AI](https://github.com/5pandan8/Flappy-Bird_AI)
- - <b>Alogrithms</b>
-  - [Path Finding Algorithm Visualizer](https://github.com/5pandan8/Path_Finding_Algo_Visualizer)
 - <b>Web Development</b>
   - [Plantanomy](https://github.com/5pandan8/Plantanomy)
+- <b>Misc</b>
+  - [Path Finding Algorithm Visualizer](https://github.com/5pandan8/Path_Finding_Algo_Visualizer)
+
   
 
 <h2>:bookmark_tabs: Certificate </h2>
