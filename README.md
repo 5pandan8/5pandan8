@@ -4,11 +4,12 @@
 
 - <b>Full Stack Web App (React, NodeJS, MongoDB, and Machine Learning Components)</b>
   - [FLIP](https://github.com/5pandan8/FLIP_final)
-- <b>Machine Learning Projects</b>
-  - [Machine Learning Projects](https://github.com/5pandan8/Machine-Learning-Projects)
+- <b>Data Science Projects</b>
+  - [Data Science Coursework Projects](https://github.com/5pandan8/Data-Science-Coursework-Projects)
+- <b>AI</b>
   - [CS50's - Introduction to Artificial Intelligence with Python course.](https://github.com/5pandan8/CS50)
-- <b>Python (Pygame)</b>
   - [Flappy Bird AI](https://github.com/5pandan8/Flappy-Bird_AI)
+ - <b>Alogrithms</b>
   - [Path Finding Algorithm Visualizer](https://github.com/5pandan8/Path_Finding_Algo_Visualizer)
 - <b>Web Development</b>
   - [Plantanomy](https://github.com/5pandan8/Plantanomy)
