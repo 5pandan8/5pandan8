@@ -4,9 +4,9 @@
 
 - <b>Full Stack Web App (React, NodeJS, MongoDB, and Machine Learning Components)</b>
   - [FLIP](https://github.com/5pandan8/FLIP_final)
-- <b>Data Science Projects</b>
+- <b>Data Science & AI Projects</b>
   - [Data Science Coursework Projects](https://github.com/5pandan8/Data-Science-Coursework-Projects)
-- <b>Artificial Intelligence Projects</b>
+  - [NLP Coursework Projects](https://github.com/5pandan8/Natural-Langauge-Processing-Coursework-Projects)
   - [CS50's - Introduction to Artificial Intelligence with Python course.](https://github.com/5pandan8/CS50)
   - [Flappy Bird AI](https://github.com/5pandan8/Flappy-Bird_AI)
 - <b>Web Development</b>
