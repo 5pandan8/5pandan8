@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Full Stack Web App (React, NodeJS, MongoDB, and Machine Learning Components)</b>
+- <b>Full Stack Web App (React, NodeJS, MongoDB, and Python Scripts using NLP Transformer)</b>
   - [FLIP](https://github.com/5pandan8/FLIP_final)
 - <b>Data Science & AI Projects</b>
   - [Data Science Coursework Projects](https://github.com/5pandan8/Data-Science-Coursework-Projects)
