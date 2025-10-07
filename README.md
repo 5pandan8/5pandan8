@@ -23,7 +23,7 @@
 ### Miscellaneous
 
 * **Path Finding Algorithm Visualizer** - [GitHub](https://github.com/5pandan8/Path_Finding_Algo_Visualizer)
-
+* **OpenCV Sudoku Solver** - [GitHub](https://github.com/5pandan8/OpenCV_Sudoku_Solver)
 ---
 
 ## 📑 Certificates
